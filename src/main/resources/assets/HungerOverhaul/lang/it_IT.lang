@@ -2,7 +2,7 @@ potion.wellfedPotion=Ben nutrito
 potion.newSlowdownPotionHO=Rallentato
 
 # tooltip strings
-hungeroverhaul.crop.grows.best.in=Le piante crescono meglio  in:
+hungeroverhaul.crop.grows.best.in=Cresce meglio in:
 
 # these should all be in lowercase
 hungeroverhaul.hearty=%s abbondante
